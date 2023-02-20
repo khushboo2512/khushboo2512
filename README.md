@@ -1,7 +1,7 @@
-- 👋 Hi, I’m khushboo, 
-- 👀 I’m interested in latest emerging technologies
-- 🌱 I’m currently learning React, Python
-- 💞️ I’m looking to collaborate on trending ideas
+- 👋 Hi, I’m khushboo, I am an experienced web application developer.
+- 👀 I’m interested in latest emerging technologies like python, AI.
+- 🌱 I’m currently working on frontend development using Angular framework.
+- 💞️ I’m looking to collaborate on trending ideas.
 - 📫 How to reach me -email khushboo2512@gmail.com
 
 <!---
